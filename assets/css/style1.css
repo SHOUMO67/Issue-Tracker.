@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(to right, #7802ff, #f86821);
+    
+}
+.modal-content{
+    color: white;
+}
+.navbar{
+    background: linear-gradient(to right, #7802ff, #f86821);
+    
+}
+.navbar a{
+    color: white;
+}
+.btn-danger{
+    background-color: rgb(0, 255, 153);
+}

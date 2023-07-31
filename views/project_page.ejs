@@ -1,0 +1,15 @@
+
+
+<link rel="stylesheet" href="/css/style1.css">
+<div class="w-50 border border border-4 p-3 m-auto">
+  <h3 class="display-7 p-4 mb-4 bg-light text-dark">
+    Project : <%= project.name %>
+  </h3>
+  <h4 class="display-9 p-4 mb-4 bg-light text-dark">
+    Author : <%= project.author %>
+  </h4>
+  <h5 class="display-9 p-4 mb-4 bg-light text-dark">
+    Description : <%= project.description %>
+  </h5>
+</div>
+<%-include('./partials/_issues'); %>

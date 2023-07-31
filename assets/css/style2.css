@@ -1,0 +1,46 @@
+body{
+    background-image: linear-gradient(to right, #e9f155, #0082fb);
+    
+}
+.navbar{
+    background-image: linear-gradient(to right, #f3fb5c, #009bfb);
+}
+
+.navbar a{
+    color: white;
+    
+}
+.btn-success{
+    background-color: rgb(208, 0, 255);
+}
+.container-fluid a{
+    padding-left: 27rem;
+}
+
+
+
+.modal-content{
+    background: linear-gradient(to right, #ee02ff, #03edce);
+    color: white;
+    
+}
+
+.modal-content h5{
+    color: white;
+}
+h6{
+    color: aliceblue;
+}
+
+.card-header{
+    background-color: #a83af6;
+    color: white;
+}
+.card-body{
+    background: linear-gradient(to right, #02ccff, #32eab9);
+    color: white;
+}
+
+.card-subtitle{
+    color: white;
+}
